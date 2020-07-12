@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Welcome to my profile.
+
+Thanks, Bye!
+
 <!--
 **adityak25/adityak25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
