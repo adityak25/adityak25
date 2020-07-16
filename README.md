@@ -1,8 +1,6 @@
-### Hi there 👋
+### Frontend developer
 
-Welcome to my profile.
-
-Thanks, Bye!
+https://adityakankanala.com/
 
 <!--
 **adityak25/adityak25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
